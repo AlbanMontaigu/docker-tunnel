@@ -15,7 +15,7 @@ docker run -d \
     -e TUNNEL_LOCAL_PORT="local_port" \
     -e TUNNEL_REMOTE_HOST="my.remote.host" \
     -e TUNNEL_REMOTE_PORT="remote_port" \
-    tunnel
+    amontaigu/tunnel
 ```
 
 ## Documentation and references
