@@ -25,6 +25,7 @@ docker run -d \
 * [SSH password auth in scripts](http://stackoverflow.com/questions/12118308/command-line-to-execute-ssh-with-password-authentication)
 * [SSH tunnel](http://www.revsys.com/writings/quicktips/ssh-tunnel.html)
 * [SSH tunnel and docker](https://intercityup.com/blog/how-to-expose-an-ssh-tunnel-to-localhost-in-a-docker-container-via-vagrant.html)
+* [SSH tunnel open to the public](http://superuser.com/questions/588591/how-to-make-ssh-tunnel-open-to-public)
 
 ## TODO
 

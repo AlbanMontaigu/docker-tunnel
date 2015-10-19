@@ -7,6 +7,7 @@
 # @see http://stackoverflow.com/questions/12118308/command-line-to-execute-ssh-with-password-authentication
 # @see http://www.revsys.com/writings/quicktips/ssh-tunnel.html
 # @see https://intercityup.com/blog/how-to-expose-an-ssh-tunnel-to-localhost-in-a-docker-container-via-vagrant.html
+# @see http://superuser.com/questions/588591/how-to-make-ssh-tunnel-open-to-public
 # ================================================================================================================
 
 # Base image

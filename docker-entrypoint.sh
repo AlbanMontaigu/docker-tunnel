@@ -63,4 +63,4 @@ fi
 echo >&2 "[INFO] ---------------------------------------------------------------"
 echo >&2 "[INFO] Starting tunnel..."
 echo >&2 "[INFO] ---------------------------------------------------------------"
-exec sshpass -p $GATEWAY_PWD ssh -o StrictHostKeyChecking=no -N -X -L $TUNNEL_LOCAL_PORT:$TUNNEL_REMOTE_HOST:$TUNNEL_REMOTE_PORT $GATEWAY_USER@$GATEWAY_HOST
+exec sshpass -p $GATEWAY_PWD ssh -o StrictHostKeyChecking=no -N -X -L \*:$TUNNEL_LOCAL_PORT:$TUNNEL_REMOTE_HOST:$TUNNEL_REMOTE_PORT $GATEWAY_USER@$GATEWAY_HOST
